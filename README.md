@@ -1,2 +1,2 @@
 # piccy
-normal files
+Normal config files in piccy's home folder.
